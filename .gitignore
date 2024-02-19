@@ -1,0 +1,12 @@
+node_modules
+# carpeta de config de webstorm
+.idea
+
+*.tmp
+
+tests/**/*.js
+!tests/infra/*.js
+
+temp/*.*
+temp
+

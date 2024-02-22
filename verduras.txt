@@ -6,3 +6,4 @@ Lechuga 3
 Peras
 Manzanas
 Uvas
+Coliflor
